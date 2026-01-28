@@ -15,6 +15,22 @@ draw = function(){
   }
 
   //🎯New Text Code Should Go Here 🡻
+fill (255,0,0)
+textSize(36)
+text("Favorite foods",100,90);
+
+fill (0,255,0)
+textSize(20)
+text("chicken ceasar salad",100,150);
+
+fill (0,0,255)
+textSize(20)
+text("fries",100,200);
+
+fill (0,255,0)
+textSize(20)
+text("matcha",100,250);
+
 
 };
 
